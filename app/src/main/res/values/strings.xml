@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Go Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="transition_poster">Transitioning Poster</string>
+    <string name="title_activity_main2">Go Movies</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_detail">Detail Activity</string>
+    <string name="sort_by">Sort By</string>
+    <string name="sort_popularity">Most Popular</string>
+    <string name="sort_rating">Highest Rated</string>
+    <string name="sort_favorite">Favorites</string>
+    <string name="content_authority" >com.udacity.otunba.popularmoviesapp</string>
+    <string name="MyTMDBApiKey">d6862b8cc20cf087d14dbee4585299a9</string>
+    <string name="content_desc_video_thumbnail">Trailer thumbnail Image</string>
+    <string name="movie_removed_from_favorites">Movie successfully removed from your favorites</string>
+    <string name="no_movie_data_error">Error fetching movie data! Check your network and try again!</string>
+    <string name="movie_add_to_favorites">Movie successfully added to your favorites</string>
+
+
+
+</resources>
